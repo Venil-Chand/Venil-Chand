@@ -1,4 +1,4 @@
-# Hi, I'm Venil Chand 👋
+# Hi, I'm Venil👋
 
 ### Bachelor of Computing Systems Student
 
