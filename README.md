@@ -1,6 +1,6 @@
 # Hi, I'm Venil👋
 
-### Bachelor of Computing Systems Student
+
 
 I'm developing my skills in Python programming, IT infrastructure, networking and automation by building practical projects.
 
