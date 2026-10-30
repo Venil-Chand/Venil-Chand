@@ -26,7 +26,7 @@ A Python command-line application that:
 
 ## 📚 Currently Learning
 
-I'm continuing to improve my Python and IT infrastructure skills and plan to build an IT Asset Inventory System as my next learning project.
+I'm continuing to improve my Python and IT infrastructure skills and plan to build more project.
 
 ## 🎯 Career Goal
 
